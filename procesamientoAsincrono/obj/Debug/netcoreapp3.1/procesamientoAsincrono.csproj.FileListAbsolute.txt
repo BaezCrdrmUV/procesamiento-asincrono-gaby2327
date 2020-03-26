@@ -1,0 +1,13 @@
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\bin\Debug\netcoreapp3.1\procesamientoAsincrono.exe
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\bin\Debug\netcoreapp3.1\procesamientoAsincrono.deps.json
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\bin\Debug\netcoreapp3.1\procesamientoAsincrono.runtimeconfig.json
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\bin\Debug\netcoreapp3.1\procesamientoAsincrono.runtimeconfig.dev.json
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\bin\Debug\netcoreapp3.1\procesamientoAsincrono.dll
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\bin\Debug\netcoreapp3.1\procesamientoAsincrono.pdb
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\obj\Debug\netcoreapp3.1\procesamientoAsincrono.csprojAssemblyReference.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\obj\Debug\netcoreapp3.1\procesamientoAsincrono.csproj.CoreCompileInputs.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\obj\Debug\netcoreapp3.1\procesamientoAsincrono.AssemblyInfoInputs.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\obj\Debug\netcoreapp3.1\procesamientoAsincrono.AssemblyInfo.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\obj\Debug\netcoreapp3.1\procesamientoAsincrono.dll
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\obj\Debug\netcoreapp3.1\procesamientoAsincrono.pdb
+C:\Users\galil\OneDrive\Documentos\GitHub\procesamiento-asincrono-gaby2327\procesamientoAsincrono\obj\Debug\netcoreapp3.1\procesamientoAsincrono.genruntimeconfig.cache
